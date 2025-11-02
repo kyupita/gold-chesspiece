@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="chesspiece_claywarg_gold">
+        <file id="0" name="chesspiece_claywarg_gold/chesspiece_claywarg_gold.png" width="333" height="441" pivot_x="0.467857" pivot_y="0.081081" />
+    </folder>
+    <entity id="0" name="chesspiece_claywarg_gold">
+        <animation id="0" name="idle" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chesspiece_claywarg_gold" folder="0" file="0" abs_x="3.448276" abs_y="-1.149425" abs_pivot_x="0.467857" abs_pivot_y="0.081081" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0" />
+                </key>
+            </mainline>
+            <timeline id="0" name="chesspiece_claywarg_gold">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="3.448276" y="-1.149425" />
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
